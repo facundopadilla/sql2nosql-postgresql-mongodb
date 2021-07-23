@@ -118,7 +118,7 @@ show databases;
 To select our database (which is called 'classicmodels'), we execute the following command:
 
 ```
-use classicmodels;
+use chinook;
 ```
 
 To view the collections in that database:
